@@ -1,0 +1,143 @@
+[
+  {
+    "sku": "1000",
+    "name": "Mistletoe cactus",
+    "description": "The mistletoe cactus is the only cactus natively found outside the Americas. It’s not entirely understood how it made it to Africa.",
+    "type": "Cactus",
+    "price": {
+      "current": "$24",
+      "previous": null
+    },
+    "color": "black",
+    "sizes": [
+      "Small / 20-30 cm",
+      "Medium / 30-40 cm",
+      "Large / 40-50 cm"
+    ],
+    "availability": {
+      "status": "In Stock", 
+      "quantity": 4
+    },
+    "images": [
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/amelie/amelie-1.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/amelie/amelie-2.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/amelie/amelie-3.jpeg"
+    ]
+  },
+  {
+    "sku": "1002",
+    "name": "Fittonia skeleton",
+    "description": "Fittonias are sometimes known as the ‘nerve plant’, because their veins look (a bit) like the human nervous system.",
+    "type": "Evergreen",
+    "price": {
+      "current": "$6",
+      "previous": null
+    },
+    "color": "green red",
+    "sizes": [
+      "Small / 10-20 cm"
+    ],
+    "availability": {
+      "status": "In Stock", 
+      "quantity": 10
+    },
+    "images": [
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/dina/dina-1.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/dina/dina-2.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/dina/dina-3.jpeg"
+    ]
+  },
+  {
+    "sku": "1001",
+    "name": "Aglaonema Red Star",
+    "description": "In China, the Chinese evergreen is considered a lucky plant. Who knows if it works, but worth a try, right?",
+    "type": "Evergreen",
+    "price": {
+      "current": "$30",
+      "previous": null
+    },
+    "color": "green red",
+    "sizes": [
+      "Small / 20-30 cm"
+    ],
+    "availability": {
+      "status": "In Stock", 
+      "quantity": 4
+    },
+    "images": [
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/clancy/clancy-1.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/clancy/clancy-2.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/clancy/clancy-3.jpeg"
+    ]
+  },
+  {
+    "sku": "1004",
+    "name": "Ficus benhalensis",
+    "description": "In Hindu mythology this plant is known as ‘the wish-fulfilling tree’. (We cannot accept returns if it doesn’t grant your wishes)",
+    "type": "Evergreen",
+    "price": {
+      "current": "$50",
+      "previous": null
+    },
+    "color": "green",
+    "sizes": [
+      "Large / 80-90 cm",
+      "Extra Large / 100-110 cm"
+    ],
+    "availability": {
+      "status": "In Stock", 
+      "quantity": 3
+    },
+    "images": [
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/ficus/ficus-1.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/ficus/ficus-2.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/ficus/ficus-3.jpeg"
+    ]
+  },
+  {
+    "sku": "1003",
+    "name": "Fittonia white flame",
+    "description": "Fittonias will always stay small – they’ll eventually reach about 15cm tall – but you can help them grow healthily by giving them a dose of plant food once per month in spring and summer. If you want to keep them really small and bushy, just snip back any long growth whenever you want.",
+    "type": "Evergreen",
+    "price": {
+      "current": "$6",
+      "previous": null
+    },
+    "color": "green red",
+    "sizes": [
+      "Small / 10-20 cm"
+    ],
+    "availability": {
+      "status": "In Stock", 
+      "quantity": 10
+    },
+    "images": [
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/nina/nina-1.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/nina/nina-2.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/nina/nina-3.jpeg"
+    ]
+  },
+  {
+    "sku": "1005",
+    "name": "Ficus longifolia",
+    "description": "It’s a native of South-East Asia, where it grows in tropical forests. As a houseplant, it’s quite easygoing. It likes a fairly bright spot and regular watering (it doesn’t like to dry out), but that’s about it.",
+    "type": "Evergreen",
+    "price": {
+      "current": "$60",
+      "previous": null
+    },
+    "color": "dark green",
+    "sizes": [
+      "Extra Large / 100-110 cm"
+    ],
+    "availability": {
+      "status": "Out of Stock", 
+      "quantity": null
+    },
+    "images": [
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/longi/longi-1.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/longi/longi-2.jpeg",
+      "https://raw.githubusercontent.com/giopunt/stock-images/main/plant-images/longi/longi-3.jpeg"
+    ]
+  }
+]
