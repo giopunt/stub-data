@@ -7,7 +7,7 @@
     "price": {
       "current": "$24",
       "previous": null,
-      "xrp": "24"
+      "xrp": 24
     },
     "color": "black",
     "sizes": [
@@ -32,7 +32,8 @@
     "type": "Evergreen",
     "price": {
       "current": "$6",
-      "previous": null
+      "previous": null,
+      "xrp": 6
     },
     "color": "green red",
     "sizes": [
