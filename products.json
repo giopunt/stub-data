@@ -6,7 +6,8 @@
     "type": "Cactus",
     "price": {
       "current": "$24",
-      "previous": null
+      "previous": null,
+      "xrp": "24"
     },
     "color": "black",
     "sizes": [
@@ -54,7 +55,8 @@
     "type": "Evergreen",
     "price": {
       "current": "$30",
-      "previous": null
+      "previous": null,
+      "xrp": 30
     },
     "color": "green red",
     "sizes": [
@@ -77,7 +79,8 @@
     "type": "Evergreen",
     "price": {
       "current": "$50",
-      "previous": null
+      "previous": null,
+      "xrp": 50
     },
     "color": "green",
     "sizes": [
@@ -101,7 +104,8 @@
     "type": "Evergreen",
     "price": {
       "current": "$6",
-      "previous": null
+      "previous": null,
+      "xrp": 6 
     },
     "color": "green red",
     "sizes": [
@@ -124,7 +128,8 @@
     "type": "Evergreen",
     "price": {
       "current": "$60",
-      "previous": null
+      "previous": null,
+      "xrp": 60
     },
     "color": "dark green",
     "sizes": [
