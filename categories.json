@@ -1,0 +1,7 @@
+[
+  { "name": "Indoor plants", "id": 1001 },
+  { "name": "Outdoor plants", "id": 1002 },
+  { "name": "New in", "id": 1003 },
+  { "name": "Plant bundles", "id": 1004 },
+  { "name": "Pots", "id": 1005 }
+]
