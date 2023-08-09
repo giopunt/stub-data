@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "user": {
+        "username": "john_doe",
+        "profile_picture": "profile_pic_john.jpg"
+      },
+      "content": "Loving the new camera! #photography",
+      "timestamp": "2023-08-07T12:34:56",
+      "likes": 42,
+      "comments": [
+        {
+          "user": "mary_smith",
+          "content": "Amazing picture!",
+          "timestamp": "2023-08-07T13:45:00"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "alice_jones",
+        "profile_picture": "profile_pic_alice.jpg"
+      },
+      "content": "Enjoying a beautiful sunset at the beach. #vacation",
+      "timestamp": "2023-08-06T16:30:15",
+      "likes": 78,
+      "comments": [
+        {
+          "user": "bob_wilson",
+          "content": "Looks like paradise!",
+          "timestamp": "2023-08-06T17:00:23"
+        },
+        {
+          "user": "emma_watson",
+          "content": "So jealous, enjoy!",
+          "timestamp": "2023-08-06T18:12:45"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "charlie_brown",
+        "profile_picture": "profile_pic_charlie.jpg"
+      },
+      "content": "Just finished reading 'The Great Gatsby'. Mind blown! #books",
+      "timestamp": "2023-08-05T10:20:30",
+      "likes": 55,
+      "comments": []
+    }
+  ]
+}
