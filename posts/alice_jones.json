@@ -2,66 +2,95 @@
   "user": {
     "username": "alice_jones",
     "profile_picture": "profile_pic_alice.jpg",
-    "bio": "Artist and nature lover. Creating beauty one brush stroke at a time.",
-    "followers": 950,
-    "following": 700,
+    "bio": "Artist, painter, and lover of creativity. Exploring colors and forms.",
+    "followers": 800,
+    "following": 600,
     "joined": "2019-05-20"
   },
   "posts": [
     {
-      "content": "My latest painting, inspired by the sea. #art",
-      "timestamp": "2023-08-06T14:30:15",
-      "likes": 78,
+      "content": "Painting a new landscape! #art",
+      "timestamp": "2023-08-07T10:00:00",
+      "likes": 55,
       "reposts": 12,
-      "comments": []
+      "comments": [
+        {
+          "username": "john_doe",
+          "content": "Amazing work as always!",
+          "timestamp": "2023-08-07T10:30:00"
+        },
+        {
+          "username": "mary_smith",
+          "content": "Can't wait to see the final piece!",
+          "timestamp": "2023-08-07T11:00:00"
+        }
+      ]
     },
     {
-      "content": "Sketching in the park. #nature",
-      "timestamp": "2023-08-05T13:20:30",
-      "likes": 65,
-      "reposts": 7,
-      "comments": []
+      "content": "Exploring abstract art. #creativity",
+      "timestamp": "2023-08-06T14:30:22",
+      "likes": 60,
+      "reposts": 15,
+      "comments": [
+        {
+          "username": "frank_white",
+          "content": "This is so unique!",
+          "timestamp": "2023-08-06T15:00:00"
+        }
+      ]
     },
     {
       "content": "Visiting an art gallery. #inspiration",
-      "timestamp": "2023-08-04T15:40:25",
-      "likes": 58,
-      "reposts": 6,
+      "timestamp": "2023-08-05T12:45:10",
+      "likes": 65,
+      "reposts": 10,
       "comments": []
     },
     {
-      "content": "Creating a mural for the community center. #giveback",
-      "timestamp": "2023-08-03T10:30:20",
-      "likes": 80,
+      "content": "Sketching outdoors. #nature",
+      "timestamp": "2023-08-04T13:00:10",
+      "likes": 58,
+      "reposts": 8,
+      "comments": [
+        {
+          "username": "emma_watson",
+          "content": "I love your connection with nature!",
+          "timestamp": "2023-08-04T13:30:00"
+        }
+      ]
+    },
+    {
+      "content": "Teaching an art class. #education",
+      "timestamp": "2023-08-03T09:30:20",
+      "likes": 70,
+      "reposts": 13,
+      "comments": []
+    },
+    {
+      "content": "Working with watercolors. #technique",
+      "timestamp": "2023-08-02T11:15:35",
+      "likes": 63,
       "reposts": 9,
       "comments": []
     },
     {
-      "content": "Painting by the lakeside. #serenity",
-      "timestamp": "2023-08-02T18:00:10",
-      "likes": 70,
-      "reposts": 8,
-      "comments": []
-    },
-    {
-      "content": "Learning a new painting technique. #growth",
-      "timestamp": "2023-08-01T12:15:35",
-      "likes": 64,
-      "reposts": 5,
-      "comments": []
-    },
-    {
-      "content": "Spending time in my garden. #gardening",
-      "timestamp": "2023-07-31T16:50:45",
-      "likes": 55,
-      "reposts": 4,
-      "comments": []
-    },
-    {
-      "content": "Art exhibition coming up! #excited",
-      "timestamp": "2023-07-30T09:30:00",
+      "content": "Creating a mural for the community. #giveback",
+      "timestamp": "2023-08-01T14:50:45",
       "likes": 75,
-      "reposts": 10,
+      "reposts": 16,
+      "comments": [
+        {
+          "username": "linda_gray",
+          "content": "What a beautiful contribution to the community!",
+          "timestamp": "2023-08-01T15:20:00"
+        }
+      ]
+    },
+    {
+      "content": "Exploring different art mediums. #experiment",
+      "timestamp": "2023-07-31T10:30:50",
+      "likes": 68,
+      "reposts": 11,
       "comments": []
     }
   ]
