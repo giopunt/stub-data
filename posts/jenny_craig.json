@@ -1,0 +1,68 @@
+{
+  "user": {
+    "username": "jenny_craig",
+    "profile_picture": "profile_pic_jenny.jpg",
+    "bio": "Travel blogger, world explorer, and lover of diverse cultures.",
+    "followers": 1900,
+    "following": 1600,
+    "joined": "2013-11-01"
+  },
+  "posts": [
+    {
+      "content": "Exploring the streets of Tokyo! #travel",
+      "timestamp": "2023-08-07T09:30:00",
+      "likes": 97,
+      "reposts": 24,
+      "comments": []
+    },
+    {
+      "content": "Hiking the Andes mountains! #adventure",
+      "timestamp": "2023-08-06T15:00:22",
+      "likes": 88,
+      "reposts": 20,
+      "comments": []
+    },
+    {
+      "content": "Tasting street food in Bangkok. #foodie",
+      "timestamp": "2023-08-05T13:45:10",
+      "likes": 84,
+      "reposts": 18,
+      "comments": []
+    },
+    {
+      "content": "Visiting historical sites in Rome. #history",
+      "timestamp": "2023-08-04T16:30:10",
+      "likes": 90,
+      "reposts": 22,
+      "comments": []
+    },
+    {
+      "content": "Snorkeling in the Great Barrier Reef. #nature",
+      "timestamp": "2023-08-03T11:15:20",
+      "likes": 85,
+      "reposts": 19,
+      "comments": []
+    },
+    {
+      "content": "Exploring art galleries in Paris. #culture",
+      "timestamp": "2023-08-02T17:45:35",
+      "likes": 80,
+      "reposts": 17,
+      "comments": []
+    },
+    {
+      "content": "Camping under the Northern Lights. #wonders",
+      "timestamp": "2023-08-01T13:20:45",
+      "likes": 92,
+      "reposts": 21,
+      "comments": []
+    },
+    {
+      "content": "Meeting locals and sharing stories. #connections",
+      "timestamp": "2023-07-31T10:00:50",
+      "likes": 89,
+      "reposts": 20,
+      "comments": []
+    }
+  ]
+}
