@@ -1,0 +1,68 @@
+{
+  "user": {
+    "username": "linda_gray",
+    "profile_picture": "profile_pic_linda.jpg",
+    "bio": "Entrepreneur, speaker, and advocate for women in business.",
+    "followers": 2000,
+    "following": 1500,
+    "joined": "2016-07-25"
+  },
+  "posts": [
+    {
+      "content": "Speaking at a women's leadership summit! #empowerment",
+      "timestamp": "2023-08-07T09:00:15",
+      "likes": 95,
+      "reposts": 18,
+      "comments": []
+    },
+    {
+      "content": "Excited to launch our new product line! #business",
+      "timestamp": "2023-08-06T14:30:22",
+      "likes": 88,
+      "reposts": 16,
+      "comments": []
+    },
+    {
+      "content": "Mentoring young entrepreneurs. #giveback",
+      "timestamp": "2023-08-05T10:15:10",
+      "likes": 80,
+      "reposts": 12,
+      "comments": []
+    },
+    {
+      "content": "Networking at the global business conference. #connections",
+      "timestamp": "2023-08-04T12:30:00",
+      "likes": 76,
+      "reposts": 14,
+      "comments": []
+    },
+    {
+      "content": "Sharing insights on our company podcast. #knowledge",
+      "timestamp": "2023-08-03T16:20:15",
+      "likes": 72,
+      "reposts": 10,
+      "comments": []
+    },
+    {
+      "content": "Celebrating team success! #teamwork",
+      "timestamp": "2023-08-02T18:10:35",
+      "likes": 84,
+      "reposts": 13,
+      "comments": []
+    },
+    {
+      "content": "Investing in sustainable practices. #responsibility",
+      "timestamp": "2023-08-01T09:50:45",
+      "likes": 78,
+      "reposts": 11,
+      "comments": []
+    },
+    {
+      "content": "Reading and learning never stops! #growth",
+      "timestamp": "2023-07-31T14:30:50",
+      "likes": 70,
+      "reposts": 9,
+      "comments": []
+    }
+  ]
+}
