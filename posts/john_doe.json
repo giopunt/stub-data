@@ -1,0 +1,105 @@
+{
+  "user": {
+    "username": "john_doe",
+    "profile_picture": "profile_pic_john.jpg",
+    "bio": "Photography enthusiast, tech geek, and avid reader. Living life one adventure at a time.",
+    "followers": 1200,
+    "following": 850,
+    "joined": "2021-05-15"
+  },
+  "posts": [
+    {
+      "content": "Loving the new camera! #photography",
+      "timestamp": "2023-08-07T12:34:56",
+      "likes": 42,
+      "reposts": 7,
+      "comments": [
+        {
+          "user": "mary_smith",
+          "content": "Amazing picture!",
+          "timestamp": "2023-08-07T13:45:00"
+        }
+      ]
+    },
+    {
+      "content": "Exploring the city today! #adventure",
+      "timestamp": "2023-08-06T10:20:30",
+      "likes": 36,
+      "reposts": 5,
+      "comments": []
+    },
+    {
+      "content": "Just finished a great book! #reading",
+      "timestamp": "2023-08-05T15:50:21",
+      "likes": 53,
+      "reposts": 4,
+      "comments": [
+        {
+          "user": "susan_parker",
+          "content": "What's the title?",
+          "timestamp": "2023-08-05T16:20:17"
+        }
+      ]
+    },
+    {
+      "content": "Spending the weekend with family. #familytime",
+      "timestamp": "2023-08-04T18:05:33",
+      "likes": 60,
+      "reposts": 3,
+      "comments": []
+    },
+    {
+      "content": "Workout completed! Feeling great! #fitness",
+      "timestamp": "2023-08-03T09:15:22",
+      "likes": 47,
+      "reposts": 6,
+      "comments": [
+        {
+          "user": "frank_white",
+          "content": "Keep it up!",
+          "timestamp": "2023-08-03T09:30:15"
+        }
+      ]
+    },
+    {
+      "content": "My thoughts on the latest tech trends. #technology",
+      "timestamp": "2023-08-02T14:20:10",
+      "likes": 72,
+      "reposts": 8,
+      "comments": []
+    },
+    {
+      "content": "Homemade dinner tonight! #cooking",
+      "timestamp": "2023-08-01T18:30:44",
+      "likes": 55,
+      "reposts": 5,
+      "comments": [
+        {
+          "user": "sam_taylor",
+          "content": "Recipe please!",
+          "timestamp": "2023-08-01T19:00:00"
+        }
+      ]
+    },
+    {
+      "content": "Enjoying some time in nature. #outdoors",
+      "timestamp": "2023-07-31T10:35:05",
+      "likes": 66,
+      "reposts": 10,
+      "comments": []
+    },
+    {
+      "content": "Attending a live concert tonight! #music",
+      "timestamp": "2023-07-30T12:00:00",
+      "likes": 78,
+      "reposts": 9,
+      "comments": [
+        {
+          "user": "mary_smith",
+          "content": "Have fun!",
+          "timestamp": "2023-07-30T12:30:15"
+        }
+      ]
+    }
+  ]
+}
