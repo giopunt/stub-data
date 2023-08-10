@@ -1,0 +1,42 @@
+{
+  "conversation": [
+    {
+      "from": "alice_jones",
+      "to": "you",
+      "content": "Hi! I saw your latest project. It's amazing!",
+      "timestamp": "2023-08-07T09:00:00",
+      "seen": true,
+      "emoji_reaction": "👏"
+    },
+    {
+      "from": "you",
+      "to": "alice_jones",
+      "content": "Thank you so much, Alice! Your feedback means a lot.",
+      "timestamp": "2023-08-07T09:05:00",
+      "seen": true
+    },
+    {
+      "from": "alice_jones",
+      "to": "you",
+      "content": "I'd love to collaborate sometime. Let's brainstorm ideas!",
+      "timestamp": "2023-08-07T09:10:00",
+      "seen": true,
+      "emoji_reaction": "💡"
+    },
+    {
+      "from": "you",
+      "to": "alice_jones",
+      "content": "Absolutely! I'll send you some thoughts later today.",
+      "timestamp": "2023-08-07T09:15:00",
+      "seen": true
+    },
+    {
+      "from": "alice_jones",
+      "to": "you",
+      "content": "Great, looking forward to it!",
+      "timestamp": "2023-08-07T09:20:00",
+      "seen": false,
+      "emoji_reaction": "😊"
+    }
+  ]
+}
