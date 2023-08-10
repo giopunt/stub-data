@@ -1,0 +1,68 @@
+{
+  "user": {
+    "username": "karen_lee",
+    "profile_picture": "profile_pic_karen.jpg",
+    "bio": "Interior designer, DIY enthusiast, and lover of beautiful spaces.",
+    "followers": 1500,
+    "following": 1300,
+    "joined": "2015-10-08"
+  },
+  "posts": [
+    {
+      "content": "Redesigning a living room space! #interiordesign",
+      "timestamp": "2023-08-07T11:00:00",
+      "likes": 87,
+      "reposts": 17,
+      "comments": []
+    },
+    {
+      "content": "Upcycling old furniture! #DIY",
+      "timestamp": "2023-08-06T14:30:22",
+      "likes": 80,
+      "reposts": 14,
+      "comments": []
+    },
+    {
+      "content": "Choosing the perfect color palette. #design",
+      "timestamp": "2023-08-05T13:15:10",
+      "likes": 76,
+      "reposts": 12,
+      "comments": []
+    },
+    {
+      "content": "Visiting a home decor expo! #inspiration",
+      "timestamp": "2023-08-04T16:00:10",
+      "likes": 82,
+      "reposts": 15,
+      "comments": []
+    },
+    {
+      "content": "Creating cozy corners at home. #comfort",
+      "timestamp": "2023-08-03T10:30:20",
+      "likes": 70,
+      "reposts": 10,
+      "comments": []
+    },
+    {
+      "content": "Exploring minimalistic designs. #simplicity",
+      "timestamp": "2023-08-02T18:15:35",
+      "likes": 75,
+      "reposts": 13,
+      "comments": []
+    },
+    {
+      "content": "Behind the scenes of a project. #workinprogress",
+      "timestamp": "2023-08-01T12:50:45",
+      "likes": 73,
+      "reposts": 11,
+      "comments": []
+    },
+    {
+      "content": "Celebrating the completion of a new design! #success",
+      "timestamp": "2023-07-31T09:30:50",
+      "likes": 90,
+      "reposts": 16,
+      "comments": []
+    }
+  ]
+}
