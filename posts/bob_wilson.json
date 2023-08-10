@@ -1,0 +1,68 @@
+{
+  "user": {
+    "username": "bob_wilson",
+    "profile_picture": "profile_pic_bob.jpg",
+    "bio": "Fitness coach, sports enthusiast, and adventure lover.",
+    "followers": 1100,
+    "following": 900,
+    "joined": "2018-09-15"
+  },
+  "posts": [
+    {
+      "content": "Morning run to start the day! #fitness",
+      "timestamp": "2023-08-07T06:30:00",
+      "likes": 62,
+      "reposts": 8,
+      "comments": []
+    },
+    {
+      "content": "Training for the next marathon. #running",
+      "timestamp": "2023-08-06T15:20:30",
+      "likes": 70,
+      "reposts": 10,
+      "comments": []
+    },
+    {
+      "content": "Hiking with friends this weekend! #adventure",
+      "timestamp": "2023-08-05T09:40:15",
+      "likes": 75,
+      "reposts": 12,
+      "comments": []
+    },
+    {
+      "content": "Healthy eating is key! #nutrition",
+      "timestamp": "2023-08-04T18:00:10",
+      "likes": 53,
+      "reposts": 5,
+      "comments": []
+    },
+    {
+      "content": "New personal record at the gym! #strength",
+      "timestamp": "2023-08-03T16:30:20",
+      "likes": 80,
+      "reposts": 15,
+      "comments": []
+    },
+    {
+      "content": "Yoga for relaxation and balance. #wellness",
+      "timestamp": "2023-08-02T10:15:35",
+      "likes": 60,
+      "reposts": 6,
+      "comments": []
+    },
+    {
+      "content": "Coaching a local youth team! #community",
+      "timestamp": "2023-08-01T14:50:45",
+      "likes": 70,
+      "reposts": 10,
+      "comments": []
+    },
+    {
+      "content": "Cycling through the mountains! #explore",
+      "timestamp": "2023-07-31T12:30:50",
+      "likes": 85,
+      "reposts": 13,
+      "comments": []
+    }
+  ]
+}
