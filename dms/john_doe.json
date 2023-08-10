@@ -1,0 +1,42 @@
+{
+  "conversation": [
+    {
+      "from": "john_doe",
+      "to": "you",
+      "content": "Hey! How are you doing?",
+      "timestamp": "2023-08-07T10:00:00",
+      "seen": true,
+      "emoji_reaction": "😃"
+    },
+    {
+      "from": "you",
+      "to": "john_doe",
+      "content": "I'm doing well, thanks! How about you?",
+      "timestamp": "2023-08-07T10:05:00",
+      "seen": true
+    },
+    {
+      "from": "john_doe",
+      "to": "you",
+      "content": "I'm good too, working on some new projects.",
+      "timestamp": "2023-08-07T10:10:00",
+      "seen": true,
+      "emoji_reaction": "👍"
+    },
+    {
+      "from": "you",
+      "to": "john_doe",
+      "content": "That sounds exciting! Let's catch up soon.",
+      "timestamp": "2023-08-07T10:15:00",
+      "seen": true
+    },
+    {
+      "from": "john_doe",
+      "to": "you",
+      "content": "Definitely! Looking forward to it.",
+      "timestamp": "2023-08-07T10:20:00",
+      "seen": false,
+      "emoji_reaction": "🎉"
+    }
+  ]
+}
