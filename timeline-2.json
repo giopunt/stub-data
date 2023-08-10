@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "user": {
+        "username": "sam_taylor",
+        "profile_picture": "profile_pic_sam.jpg"
+      },
+      "content": "Exploring the city on my bike. #cycling",
+      "timestamp": "2023-08-07T13:00:00",
+      "likes": 34,
+      "reposts": 5,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "michael_fox",
+        "profile_picture": "profile_pic_michael.jpg"
+      },
+      "content": "Attending a film festival. #movies",
+      "timestamp": "2023-08-06T19:30:15",
+      "likes": 58,
+      "reposts": 8,
+      "comments": [
+        {
+          "user": "jenny_craig",
+          "content": "Have fun!",
+          "timestamp": "2023-08-06T20:00:00"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "susan_parker",
+        "profile_picture": "profile_pic_susan.jpg"
+      },
+      "content": "Learning to play the guitar. #music",
+      "timestamp": "2023-08-05T14:15:22",
+      "likes": 47,
+      "reposts": 4,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "jenny_craig",
+        "profile_picture": "profile_pic_jenny.jpg"
+      },
+      "content": "A beautiful day for a picnic. #outdoors",
+      "timestamp": "2023-08-04T12:10:30",
+      "likes": 52,
+      "reposts": 6,
+      "comments": [
+        {
+          "user": "alice_jones",
+          "content": "The weather looks perfect!",
+          "timestamp": "2023-08-04T12:40:15"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "george_hill",
+        "profile_picture": "profile_pic_george.jpg"
+      },
+      "content": "Sketching at the park. #art",
+      "timestamp": "2023-08-03T17:25:10",
+      "likes": 39,
+      "reposts": 3,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "emma_watson",
+        "profile_picture": "profile_pic_emma.jpg"
+      },
+      "content": "Yoga session to start the day. #wellness",
+      "timestamp": "2023-08-02T07:05:00",
+      "likes": 66,
+      "reposts": 10,
+      "comments": [
+        {
+          "user": "mary_smith",
+          "content": "I need to try that!",
+          "timestamp": "2023-08-02T07:30:33"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "charlie_brown",
+        "profile_picture": "profile_pic_charlie.jpg"
+      },
+      "content": "Watching a soccer match with friends. #sports",
+      "timestamp": "2023-08-01T16:45:21",
+      "likes": 41,
+      "reposts": 5,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "linda_gray",
+        "profile_picture": "profile_pic_linda.jpg"
+      },
+      "content": "Baking cookies for the neighbors. #community",
+      "timestamp": "2023-07-31T15:35:05",
+      "likes": 50,
+      "reposts": 7,
+      "comments": [
+        {
+          "user": "bob_wilson",
+          "content": "Such a kind gesture!",
+          "timestamp": "2023-07-31T16:05:00"
+        }
+      ]
+    }
+  ]
+}
