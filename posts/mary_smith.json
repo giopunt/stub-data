@@ -1,0 +1,68 @@
+{
+  "user": {
+    "username": "mary_smith",
+    "profile_picture": "profile_pic_mary.jpg",
+    "bio": "Travel lover, foodie, and cat mom.",
+    "followers": 800,
+    "following": 620,
+    "joined": "2020-11-10"
+  },
+  "posts": [
+    {
+      "content": "Exploring new places this summer! #travel",
+      "timestamp": "2023-08-07T11:22:33",
+      "likes": 55,
+      "reposts": 6,
+      "comments": []
+    },
+    {
+      "content": "Homemade sushi night! #foodie",
+      "timestamp": "2023-08-06T18:30:22",
+      "likes": 45,
+      "reposts": 3,
+      "comments": []
+    },
+    {
+      "content": "Enjoying a beautiful sunset on the beach. #relax",
+      "timestamp": "2023-08-05T19:15:10",
+      "likes": 68,
+      "reposts": 5,
+      "comments": []
+    },
+    {
+      "content": "New hiking adventure! #nature",
+      "timestamp": "2023-08-04T10:00:00",
+      "likes": 73,
+      "reposts": 8,
+      "comments": []
+    },
+    {
+      "content": "Cuddling with my cat. #catmom",
+      "timestamp": "2023-08-03T20:30:15",
+      "likes": 40,
+      "reposts": 2,
+      "comments": []
+    },
+    {
+      "content": "Visiting family for the weekend. #familytime",
+      "timestamp": "2023-08-02T14:10:05",
+      "likes": 50,
+      "reposts": 4,
+      "comments": []
+    },
+    {
+      "content": "Trying a new dessert recipe. #baking",
+      "timestamp": "2023-08-01T16:20:30",
+      "likes": 47,
+      "reposts": 3,
+      "comments": []
+    },
+    {
+      "content": "Attending a cooking workshop! #learning",
+      "timestamp": "2023-07-31T11:45:50",
+      "likes": 60,
+      "reposts": 5,
+      "comments": []
+    }
+  ]
+}
