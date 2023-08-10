@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "user": {
+        "username": "john_doe",
+        "profile_picture": "profile_pic_john.jpg"
+      },
+      "content": "Just got back from hiking in the mountains. #nature",
+      "timestamp": "2023-08-07T15:00:00",
+      "likes": 57,
+      "reposts": 8,
+      "comments": [
+        {
+          "user": "alice_jones",
+          "content": "That must've been refreshing!",
+          "timestamp": "2023-08-07T15:30:00"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "mary_smith",
+        "profile_picture": "profile_pic_mary.jpg"
+      },
+      "content": "Celebrating my birthday with friends! #party",
+      "timestamp": "2023-08-06T18:00:15",
+      "likes": 70,
+      "reposts": 10,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "bob_wilson",
+        "profile_picture": "profile_pic_bob.jpg"
+      },
+      "content": "Working on my new woodworking project. #crafts",
+      "timestamp": "2023-08-05T12:20:30",
+      "likes": 45,
+      "reposts": 5,
+      "comments": [
+        {
+          "user": "george_hill",
+          "content": "Can't wait to see the finished piece!",
+          "timestamp": "2023-08-05T12:45:15"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "emma_watson",
+        "profile_picture": "profile_pic_emma.jpg"
+      },
+      "content": "Volunteering at the local shelter today. #giveback",
+      "timestamp": "2023-08-04T11:15:22",
+      "likes": 68,
+      "reposts": 12,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "charlie_brown",
+        "profile_picture": "profile_pic_charlie.jpg"
+      },
+      "content": "Watching a live jazz performance tonight! #music",
+      "timestamp": "2023-08-03T16:20:10",
+      "likes": 53,
+      "reposts": 4,
+      "comments": [
+        {
+          "user": "linda_gray",
+          "content": "Enjoy the show!",
+          "timestamp": "2023-08-03T16:50:00"
+        }
+      ]
+    },
+    {
+      "user": {
+        "username": "linda_gray",
+        "profile_picture": "profile_pic_linda.jpg"
+      },
+      "content": "Experimenting with new recipes. #cooking",
+      "timestamp": "2023-08-02T19:05:33",
+      "likes": 61,
+      "reposts": 7,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "frank_white",
+        "profile_picture": "profile_pic_frank.jpg"
+      },
+      "content": "Attending a business conference. #networking",
+      "timestamp": "2023-08-01T17:50:21",
+      "likes": 44,
+      "reposts": 6,
+      "comments": []
+    },
+    {
+      "user": {
+        "username": "karen_lee",
+        "profile_picture": "profile_pic_karen.jpg"
+      },
+      "content": "Planting new flowers in the garden. #gardening",
+      "timestamp": "2023-07-31T13:35:05",
+      "likes": 48,
+      "reposts": 3,
+      "comments": [
+        {
+          "user": "susan_parker",
+          "content": "They look beautiful!",
+          "timestamp": "2023-07-31T14:00:00"
+        }
+      ]
+    }
+  ]
+}
